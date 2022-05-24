@@ -14,6 +14,6 @@ This course is about how to build the analytics side of fraud detetion model sys
 ### Project Description
 In these two projects, we used tools and developped code to deep dive on **real world** public datasets, detect and predict fraud activity.
 
-Project #1: [Identity Fraud Detection](https://github.com/siqinyan/Fraud_Anlytics_Projects/blob/main/projects_shared/DSO%20562%20Project%202/Project2_Report_Application_Fraud.pdf)
+Project #1: [Identity Fraud Detection](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/fraud_analytics_projects/Project2_Report_Identity_Fraud.pdf)
 
-Project #2: [Transaction Fraud Detection](https://github.com/siqinyan/Fraud_Anlytics_Projects/blob/main/projects_shared/DSO%20562%20Project%203/Project%203%20Report.pdf), [slides](https://github.com/siqinyan/Fraud_Anlytics_Projects/blob/main/projects_shared/DSO%20562%20Project%203/PPT.pdf)
+Project #2: [Transaction Fraud Detection](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/fraud_analytics_projects/Project3_Report_Application_Fraud.pdf), [slides](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/fraud_analytics_projects/Project3_Slides_Application_Fraud.pdf)
