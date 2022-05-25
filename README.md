@@ -11,7 +11,7 @@ The USC Marshall MSBA program is a data science STEM program with a business len
 |Term|School|Course|    Course Description    |    Units Earned    |   Grade  |
 |----|------|------|--------------------------|--------------------|----------|
 |2020 Fall|Marshall School of Business|DSO 510|[Business Analytics](https://github.com/siqinyan/USC_Marshall_Projects/tree/main/business_analytics_hws)|1.5|A|
-|2020 Fall|Marshall School of Business|DSO 545|[Statistical Computing and Data Visualization]()|3.0|A|
+|2020 Fall|Marshall School of Business|DSO 545|[Statistical Computing and Data Visualization](https://github.com/siqinyan/USC_Marshall_Projects/tree/main/King%E2%80%99s_Hawaiian_project)|3.0|A|
 |2020 Fall|Marshall School of Business|DSO 552|SQL Databases for Business Analysts|1.5|A|
 |2020 Fall|Marshall School of Business|DSO 570|The Analytics Edge: Data, Models, and Effective Decisions|3.0|A|
 |2021 Spring|Marshall School of Business|DSO 530|Applied Modern Statistical Learning Methods|3.0|A|
@@ -21,5 +21,5 @@ The USC Marshall MSBA program is a data science STEM program with a business len
 |2021 Summer|Viterbi School of Engineering|DSCI 553|[Foundations and Applications of Data Mining](https://github.com/siqinyan/DSCI553_DataMining)|4.0|A|
 |2021 Fall|Viterbi School of Engineering|CSCI 567|Machine Learning|4.0|A-|
 |2021 Fall|Marshall School of Business|DSO 573|Data Analytics Driven Dynamic Strategy and Execution|3.0|P|
-|2021 Fall|Marshall School of Business|FBE 551|[Quantitative Investing]()|3.0|A|
+|2021 Fall|Marshall School of Business|FBE 551|[Quantitative Investing](https://github.com/siqinyan/USC_Marshall_Projects/tree/main/quantitative_investing_project)|3.0|A|
 |2022 Spring|Marshall School of Business|DSO 569|[Text Analytics and Natural Language Processing](https://github.com/siqinyan/dso-560-nlp-text-analytics)|1.5|A|
