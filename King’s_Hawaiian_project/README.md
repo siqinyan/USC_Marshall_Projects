@@ -22,4 +22,4 @@ Family-owned Hawaiian bread company, King's Hawaiian, would like to identify whi
 
 We will use Python and provided data sets compiled by Kings Hawaiian from the past 4 years to understand what has the greatest impact on consumption.
 
-[More details.]()
+[More details.](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/King%E2%80%99s_Hawaiian_project/King's_Hawaiian_Presentation.pdf)
