@@ -1,8 +1,8 @@
 ## USC Marshall M.S. in Business Analytics
 [Siqin Yang](https://www.linkedin.com/in/siqin-yang-8b7a24162/), USC Marshall M.S. in Business Analytics student - 2020 Aug - 2022 May
 
-Final GPA: 3.95
-Total Credits: 33.50
+- Final GPA: 3.95
+- Total Credits: 33.50
 
 ### Program Description
 The USC Marshall MSBA program is a data science STEM program with a business lens. It is one of the longest-running MSBA programs in the nation and has consistently been ranked among the world’s top programs. [More details.](https://www.marshall.usc.edu/programs/specialized-masters-programs/master-science-business-analytics)
@@ -10,7 +10,7 @@ The USC Marshall MSBA program is a data science STEM program with a business len
 ### Course List
 |Term|School|Course|    Course Description    |    Units Earned    |   Grade  |
 |----|------|------|--------------------------|--------------------|----------|
-|2020 Fall|Marshall School of Business|DSO 510|[Business Analytics]()|1.5|A|
+|2020 Fall|Marshall School of Business|DSO 510|[Business Analytics](https://github.com/siqinyan/USC_Marshall_Projects/tree/main/business_analytics_hws)|1.5|A|
 |2020 Fall|Marshall School of Business|DSO 545|[Statistical Computing and Data Visualization]()|3.0|A|
 |2020 Fall|Marshall School of Business|DSO 552|SQL Databases for Business Analysts|1.5|A|
 |2020 Fall|Marshall School of Business|DSO 570|The Analytics Edge: Data, Models, and Effective Decisions|3.0|A|
