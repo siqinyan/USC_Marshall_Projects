@@ -12,33 +12,33 @@ This course is an introduction to and survey of Business Analytics, that is, ana
 - application examples made in a practical context using real-world examples of such endeavors from engagements with top tier companies in financial services, telecommunications and consumer products
 
 ### Common Problems
-•	Credit Score
-•	Fraud Score
-•	[Target Marketing Response Score](1)
-•	Collections Score
-•	Attrition/Retention Score
-•	Survival Analysis
-•	[Customer Value Measure](3)
-•	Lifetime Value Measures
-•	[Marketing Segmentation](2)
-•	ARIMA and Nonlinear Forecasting
-•	[Forecasts for Stocks, Bonds, Drivatives](6)
-•	Business Simulations
-•	[Behavior Score](4)
-•	[Location Optimization](5)
-•	[Coupon Optimization](7)
+- Credit Score
+- Fraud Score
+- [Target Marketing Response Score](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%201.pdf)
+- Collections Score
+- Attrition/Retention Score
+- Survival Analysis
+- [Customer Value Measure](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%203.pdf)
+- Lifetime Value Measures
+- [Marketing Segmentation](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%202.pdf)
+- ARIMA and Nonlinear Forecasting
+- [Forecasts for Stocks, Bonds, Drivatives](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%206.pdf)
+- Business Simulations
+- [Behavior Score](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%204.pdf)
+- [Location Optimization](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%205.pdf)
+- [Coupon Optimization](https://github.com/siqinyan/USC_Marshall_Projects/blob/main/business_analytics_hws/Assignment%207.pdf)
 
 
 ### Statistical/ML Algorithms
-•	Linear/logistic regression
-•	Decision trees
-•	Clustering
-•	Neural nets (deep learning, RNN, CNN, LSTN)
-•	Support vector machines
-•	Bayesian networks
-•	K nearest neighbors
-•	Random forests
-•	Boosted trees
-•	Ensembles, stacking
-•	ARIMA
+- Linear/logistic regression
+- Decision trees
+- Clustering
+- Neural nets (deep learning, RNN, CNN, LSTN)
+- Support vector machines
+- Bayesian networks
+- K nearest neighbors
+- Random forests
+- Boosted trees
+- Ensembles, stacking
+- ARIMA
 
